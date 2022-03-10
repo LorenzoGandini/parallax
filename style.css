@@ -1,0 +1,30 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+.d1, .d2, .d3{
+    padding: 20px;
+    border: 10px solid black;
+    background-color: aquamarine;
+}
+
+.bg1, .bg2, .bg3, .bg4{
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg1{
+    background-image: url(../exercise-stin/imgs/im1.jpeg);
+}
+.bg2{
+    background-image: url(../exercise-stin/imgs/im2.jpeg);
+}
+.bg3{
+    background-image: url(../exercise-stin/imgs/im3.jpeg);
+}
+.bg4{
+    background-image: url(../exercise-stin/imgs/im4.jpeg);
+}
